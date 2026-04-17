@@ -1,24 +1,20 @@
-**👨‍🎓 Harshit Kant - Student & Developer**
+👨‍💻 Harshit Kant - Senior Software Developer & Data Analyst
 
-Hey there! I'm Harshit Kant, a passionate student exploring the realms of technology and coding. 
-I am currently pursuing B.Tech in Computer Science with Specialization in Artificial Intelligence and Machine Learning.
+Hey there! I'm Harshit, a Full-Stack Developer passionate about building scalable
+applications and solving real-world problems with technology.
 
-**🚀 About Me :**
-     I'm enthusiastic about leveraging technology to solve real-world problems.
-     My academic journey includes a focus on AI and ML.
+🎓 B.Tech in CSE (AI & ML) — Vellore Institute of Technology, Bhopal
 
-**🔍 Academic Focus :** **📚 Currently studying:** B.Tech -CSE (AI and ML).
-      
-  **🌐 Relevant coursework:** 
-  1. Fundamental of AI and ML
-  2. Computational Intelligence
-  3. Big Data with Machine Learning
-  4. Applied Machine Learning
-  5. Artificial Neural Networks
-  6. Data Mining and Data Warehousing
+💼 About Me:
+I build robust full-stack applications, improve backend architectures, and work with LLM models.
 
-**🌱 Learning:**
-I'm always eager to learn and expand my skill set. Currently exploring Python Libraries and Java(DSA).
+🛠️ Tech Stack:
+• Languages: JavaScript, Python, Java, HTML, CSS
+• Frameworks: Node.js, Express.js, React, Next.js, Flutter, TailwindCSS
+• AI & ML: LangChain, LangGraph, Claude Code, Pgvector, ChromaDB
+• Databases: MySQL, PostgreSQL, MongoDB, Redis, Firebase
+• DevOps & Cloud: Linux, Git, Docker, Nginx, Cloudflare
 
+🌱 Currently Exploring: LLMs, AI Agents & Advanced System Design
 
-                              
+📫 Reach me at: harshitkant7@gmail.com
